@@ -260,6 +260,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 "package_donation": "Offrez-nous ce que vous voulez",
 "package_free": "Cet article est gratuit",
 
@@ -275,6 +286,20 @@
 "title_store": "Boostez votre expérience de jeu",
 "title_store_sub_1": "La boutique vous permet de disposer d'avantages exclusifs en jeu tout en soutenant HypariaMC",
 "title_store_sub_2": "afin d’améliorer, encore et encore, le serveur et d’optimiser votre expérience de jeu.",
+
+"cart_order_summary": "Récapitulatif de commande",
+"cart_order_summary_desc": "Vous avez besoin d'une réponse à vos questions avant de passer au paiement ? Questionnez la communauté ou les membres de l'équipe sur notre Discord.",
+"cart_billing_details": "Détails de facturation",
+"cart_full_name": "Nom et prénom",
+"cart_email": "Adresse e-mail",
+"cart_address_line_1": "Adresse postale",
+"cart_address_line_2": "Complément d'adresse",
+"cart_zip_code": "Code postal",
+"cart_city": "Ville",
+"cart_country": "Pays",
+"cart_choose_country": "Sélectionnez un pays",
+"cart_state": "Région",
+"cart_terms": "J'ai lu et accepté les",
 
 "word_home": "Accueil",
 "word_wiki": "Wiki",
@@ -296,11 +321,16 @@
 "word_unit_price": "Prix unitaire",
 "word_quantity": "Quantité",
 "word_total": "Total",
+"word_tax": "TVA",
 "word_cart": "Panier",
 "word_available": "Disponible",
 "word_exclusive": "Exclusif",
 "word_variable": "Variable",
 "word_coming_soon": "Prochainement",
+
+"word_conditions_of_use": "Conditions Générales d'Utilisation",
+"word_terms_of_sale": "Conditions Générales de Vente",
+"word_disclaimer": "Mentions légales",
 
 "expression_need_help": "Besoin d'aide",
 "expression_is_not_your_account": "n'est pas votre compte ?",
@@ -314,10 +344,11 @@
 "expression_ending_soon": "Bientôt indisponible",
 "expression_proceed_to_checkout": "Procéder au paiement",
 "expression_do_you_have_a_coupon": "Avez-vous un coupon",
-"expression_order_summary": "Récapitulatif de commande",
 "expression_pay_with": "Payer avec",
 "expression_claim_for_free": "Obtenir gratuitement",
 
-"punctuation_space": " "
+"punctuation_space": " ",
+
+"lang": "fr"
 
 }}

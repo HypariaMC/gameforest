@@ -245,15 +245,6 @@
 
 
 
-"word_welcome":"",
-"word_continue":"Continue",
-"word_buy":"Buy",
-"word_remove":"Remove",
-"word_use":"Use",
-"word_gift":"Offer",
-"word_confirm":"Ok",
-"word_free":"Free",
-"word_home":"Home",
 
 
 
@@ -262,8 +253,7 @@
 
 
 
-"package_donation": "Give us what you want",
-"package_free": "This product is free",
+
 
 
 
@@ -278,6 +268,20 @@
 "title_store": "Boost your gaming experience",
 "title_store_sub_1": "The store allows you to enjoy exclusive in-game benefits while supporting HypariaMC",
 "title_store_sub_2": "to improve the server over and over again and optimize your gaming experience.",
+
+"cart_order_summary": "Order Summary",
+"cart_order_summary_desc": "Need any questions answered before checkout? Ask the community or team members on our Discord.",
+"cart_billing_details": "Billing Details",
+"cart_full_name": "Full name",
+"cart_email": "Email address",
+"cart_address_line_1": "Address line 1",
+"cart_address_line_2": "Address line 2",
+"cart_zip_code": "Zip code",
+"cart_city": "City",
+"cart_country": "Country",
+"cart_choose_country": "Select a country",
+"cart_state": "State",
+"cart_terms": "I agree to the",
 
 "word_home": "Home",
 "word_wiki": "Wiki",
@@ -299,11 +303,16 @@
 "word_unit_price": "Unit price",
 "word_quantity": "Quantity",
 "word_total": "Total",
+"word_tax": "VAT",
 "word_cart": "Cart",
 "word_available": "Available",
 "word_exclusive": "Exclusive",
 "word_variable": "Variable",
 "word_coming_soon": "Coming soon",
+
+"word_conditions_of_use": "Conditions of Use",
+"word_terms_of_sale": "Terms of sale",
+"word_disclaimer": "Disclaimer",
 
 "expression_need_help": "Need help",
 "expression_is_not_your_account": "isn't your account?",
@@ -317,10 +326,11 @@
 "expression_ending_soon": "Ending soon",
 "expression_proceed_to_checkout": "Proceed to checkout",
 "expression_do_you_have_a_coupon": "Do you have a coupon",
-"expression_order_summary": "Order Summary",
 "expression_pay_with": "Pay with",
 "expression_claim_for_free": "Claim for free",
 
-"punctuation_space": ""
+"punctuation_space": "",
+
+"lang": "en"
 
 }}
