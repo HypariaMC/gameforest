@@ -7,285 +7,42 @@
 "translations":
 {
 
-"Please confirm that you're a human":"Veuillez nous confirmer que vous êtes bien un humain.",
+"title_home_1": "Votre aventure",
+"title_home_2": "commence ici",
 
-"Empty basket":"Panier vide",
-"Details":"Détails",
-"Add to cart":"Ajouter au panier",
-"Continue":"Continuer",
-"Back":"Retour",
-"Extend":"Étendre",
-"Remove":"Retirer",
-"Close":"Fermer",
-"Update":"Actualiser",
-"Redeem":"Échanger",
-"Logout":"Déconnexion",
-"Buy":"Acheter",
-"Subscribe":"S'abonner",
-"No packages to display in this category.":"Aucun package à voir dans cette catégorie.",
-"Uncategorized":"Non classé",
-"Category not found.":"Catégorie introuvable.",
-"You decide how much to pay.":"Vous décidez combien vous payez.",
-"This item is free.":"Ce produit est gratuit.",
-"You're not allowed to purchase this item.":"Vous n'êtes pas autorisé à acheter cet article.",
-"Package could not be found.":"L'offre est introuvable.",
-"Please enter the amount you'd like to pay.":"Veuillez entrer le montant que vous souhaitez payer.",
-"Please choose which server to receive this package upon.":"Veuillez choisir le serveur sur lequel vous souhaitez recevoir votre commande.",
-"Please enter an amount above :amount :currency.":"S'il-vous plait entrez un montant :amount :currency.",
-"Please enter an amount below :amount :currency.":"S'il vous plait entrer un montant :amount :currency.",
-"Please select a valid option for all multiple choice customisations.":"Sélectionnez une option valide pour toutes les personnalisations à choix multiples.",
-"Please enter a valid input for all customisations.":"Veuillez saisir une entrée valide pour toutes les personnalisations.",
-"This package will be removed from your account on the :date.":"Cette package va etre enleve de ton compte sur la :date.",
-"Invalid purchase type.":"Type d'achat invalide.",
-"That coupon has expired.":"Ce coupon est expiré.",
-"You are not allowed to redeem this coupon.":"Vous n'avez pas le droit de supprimer ce coupon.",
-"Your basket needs to have a value above :amount :currency to redeem that coupon.":"Votre panier nécessite d'avoir une valeur :amount :currency pour supprimer ce coupon.",
-"You do not have any packages in your basket. Please browse our webstore to find a package you would like to purchase.":"Vous n'avez aucun produit dans votre panier. Merci de parcourir notre boutique en ligne pour en trouver un que vous souhaiteriez acheter.",
-":count item for :amount :currency":[":count item pour :amount :currency",
-":count item(s) for :amount :currency"],"Total":"Total",
-"You need to wait to receive this free basket.":"Vous devez attendre pour recevoir ce panier gratuit.",
-"You are required to pay for this basket.":"Vous devez payer pour ce panier.",
-"Please choose your desired payment option.":"Merci de choisir votre moyen de paiement.",
-"You have been banned from purchasing.":"Vous avez été banni de l'achat.",
-"You have been banned from purchasing due to opening too many chargebacks over the Buycraft network.":"Vous avez été suspendu suite à un trop grand nombre de débits rejetés sur la plateforme Buycraft.",
-"You must accept the terms and conditions.":"Vous devez accepter les termes et conditions.",
-"Please enter a valid Minecraft username.":"Merci d'entrer un pseudonyme Minecraft valide. ",
-"Your basket needs to have a value above 0.":"Votre panier doit avoir une valeur supérieure à 0.",
-"Please wait while we redirect you to your chosen gateway...":"Veuillez patienter pendant que nous vous redirigeons vers votre mode de payement choisi...",
-"If this page appears for more than 5 seconds, please :link_start click here :link_end.":"Si cette page s'affiche pendant plus de 5 secondes, s'il vous plaît :link_start cliquez ici :link_end.",
-"Ooops, something went wrong...":"Ooops, il y a une erreur...",
-"An error has occured while trying to proceed to the selected payment gateway.":"Une erreur s'est produite en essayant d'accéder au mode de paiement sélectionné.",
-"Please make sure that you have correctly configured the payment gateway.":"S'il vous plaît assurez vous d'avoir configuré correctement le mode de paiement.",
-"Please continue with your purchase through the popup window.":"S'il vous plaît, continuer votre achat avec la fenêtre pop-up",
-"If the window does not appear in under 5 seconds, or you have accidentally closed it, please :link_start click here :link_end.":"Si la fenêtre n'apparaît pas dans les 5 prochaines secondes, ou que vous l'avez accidentellement fermé, :link_start cliquez ici :link_end.",
-"Giftcard balance":"Solde de la carte-cadeau",
-"Card number":"Numéro de la carte",
-"Check":"Vérifier",
-"No recent top customer to display.":"Pas de donateur récent à afficher.",
-"Donated :total_spent :store_currency this hour.":"Dons durant cette heure :total_spent :store_currency.",
-"Donated :total_spent :store_currency today.":"Dons réalisés aujourd'hui :total_spent :store_currency.",
-"Donated :total_spent :store_currency this week.":"Don :total_spent :store_currency cette semaine.",
-"Donated :total_spent :store_currency this month.":"Don :total_spent :store_currency ce mois-ci.",
-"Donated :total_spent :store_currency this year.":"Don :total_spent :store_currency cette année.",
-"Purchase goal":"Objectif de vente",
-"Spent :total_spent :store_currency this month":"Dépensé :total_spent :store_currency ce mois-ci",
-"Recent purchases":"Achats récents",
-"Featured package":"Forfait Vedette",
-":goal_percent completed":":goal_percent terminé",
-"Server status":"Etat du serveur",
-":online_players \/ :total_slots players online":":online_players \/ :total_slots joueurs en ligne",
-"Online":"En ligne",
-"Offline":"Hors ligne",
-"Click to checkout with :gateway_name (:gateway_description)":"Cliquez pour payer avec :gateway_name (:gateway_description)",
-"You need to add a payment gateway before players can donate.":"Vous devez ajouter une méthode de payement avant que les joueurs puissent faire un don.",
-"Click to checkout for free.":"Cliquez pour commander gratuitement.",
-"Enter the username to gift this package to":"Entrez le nom d'utilisateur pour offrir ce cadeau à",
-"Times achieved:":"Temps écoulé:",
-"No card found":"Aucune carte trouvée",
-"This gift card has been marked as void":"Cette carte-cadeau est invalide",
-"Card balance: :giftcard_remaining_balance :store_currency":"Solde de la carte: :giftcard_remaining_balance :store_currency",
-"Please choose which server to receive this package on":"S'il vous plaît choisir quel serveur pour recevoir ce colis sur",
-"Order status":"Statut de la commande",
-"To look up a payment, you must provide your Minecraft username, and one of: transaction ID, email address or the value of the purchase:":"Pour vérifier un paiement, vous devez fournir votre nom d'utilisateur Minecraft et l'une des informations suivantes: ID de la transaction, adresse e-mail ou le montant de l'achat:",
-"Username":"Nom d'utilisateur",
-"Transaction ID":"ID de transaction",
-"Email Address":"Adresse E-Mail",
-"Purchase Value":"Valeur d'achat",
-"Search Payments":"Rechercher les paiements",
-"There is :payment_count matching payment":["Il y a :payment_count mode de paiement correspondant",
-"There are :payment_count modes de paiement correspondants"],"Order Price:":"Prix de la commande:",
-"Commands Executed:":"Commandes exécutées:",
-"Commands Due:":"Commandes Due:",
-"Commands Scheduled:":"Commandes planifiées:",
-"There are no payments matching these details":"Il n'y a aucun mode de paiement correspondant à votre requête",
-"Billed :subscription_price :store_currency every :expiry_period":"Facturé :subscription_price :store_currency every :expiry_period",
-"You need to add a payment gateway and set it to accept subscriptions before players can donate.":"Vous devez ajouter une plateforme de paiement et la configurer pour accepter les paiements récurrents avant que les joueurs puissent faire un don.",
-"Card details":"Détails de la carte",
-"Card number:":"Numéro de la carte:",
-"CVC":"Code CVC:",
-"What's this?":"Qu'est-ce que c'est ?",
-"Expiry month:":"Mois d'expiration",
-"01 - January":"01 - Janvier",
-"02 - February":"02 - Février",
-"03 - March":"03 - Mars",
-"04 - April":"04 - Avril",
-"05 - May":"05 - Mai",
-"06 - June":"06 - Juin",
-"07 - July":"07 - Juillet",
-"08 - August":"08 - Août",
-"09 - September":"09 - Septembre",
-"10 - October":"10 - Octobre",
-"11 - November":"11 - Novembre",
-"12 - December":"12 - Décembre",
-"Expiry year:":"Année d'expiration",
-"Purchase &raquo;":"Achat &raquo;",
-"Claim for free &raquo;":"Réclamer gratuitement &raquo;",
-"You need to setup a :gateway in your control panel before players can donate.":"Vous devez configurer :gateway dans votre panneau de contr\u00f4le avant que les joueurs puissent faire un don.",
-"This is a gift":"C'est un cadeau",
-"Enter a username to gift this package to":"Entrez un nom d'utilisateur pour offrir ce package à",
-"Gift this package":"Cadeau ce paquet",
-"Payment instructions":"Instructions de paiement",
-"This is a gift for":"C'est un cadeau pour",
-
-"header_strip_discord_online":"Utilisateurs en ligne sur Discord !",
-"header_strip_discord_click_to_join":"Cliquez pour rejoindre notre serveur Discord !",
-"header_strip_languages":"Langues",
-"header_strip_basket":"Mon panier",
-
-"navbar_home":"Accueil",
-"navbar_rules":"Règlement",
-"navbar_store":"Boutique",
-"navbar_vote":"Vote",
-"navbar_punishments":"Sanctions",
-"navbar_return_to_main_site":"Site principal",
-"navbar_home_url":"https://www.hyparia.org/",
-"navbar_rules_url":"https://www.hyparia.org/rules",
-"navbar_store_url":"https://store.hyparia.org/",
-"navbar_vote_url":"https://www.hyparia.org/votes",
-"navbar_punishments_url":"https://www.hyparia.org/bans",
-
-"server_detail_ip_click_to_copy":"Cliquez pour copier l'adresse IP !",
-"server_detail_ip_copied":"IP copiée ! Amusez-vous bien !",
-"server_detail_players_online":"Joueurs connectés",
-"server_detail_start_your_adventure":"Qu'est-ce que vous attendez !?",
-
-"module_needhelp_title":"Besoin d'aide ?",
-"module_needhelp_subtitle":"Cliquez pour obtenir de l'aide !",
-"module_logged_in_as":"Connecté en tant que :",
-"module_top_customer":"Meilleur acheteur",
-"module_top_customer_description":"Joueur le plus généreux de",
-"module_recent_payments":"Derniers achats",
-"module_no_recent_payment":"Aucun paiement récent.",
-
-"this_hour_long":"cette heure",
-"this_day_long":"ce jour",
-"this_week_long":"cette semaine",
-"this_month_long":"ce mois",
-"this_year_long":"cette année",
-
-"word_welcome":"Bienvenue",
-"word_continue":"Continuer",
-"word_buy":"Acheter",
-"word_remove":"Retirer",
-"word_use":"Utiliser",
-"word_gift":"Offrir",
-"word_confirm":"Ok",
-"word_free":"Gratuit",
-"word_home":"Accueil",
-
-"home_banner_url":"https://i.imgur.com/kDx8X5V.png",
-"home_recomendations_title":"Avant d'effectuer un achat, nous vous recommandons de faire ce qui suit :",
-"home_recomendations_line_1":"Si vous avez moins de 18 ans, consultez un parent ou un tuteur légal;",
-"home_recomendations_line_2":"Assurez-vous d'être connecté sur HypariaMC Network (mc.hyparia.org);",
-"home_recomendations_line_3":"Assurez-vous que le nom d'utilisateur que vous avez entré est correct;",
-"home_recomendations_line_4":"Assurez-vous d'avoir lu nos Conditions Générales de Vente.",
-
-"footer_about_title":"À propos",
-"footer_about_description_1":"HypariaMC est un serveur Minecraft de multi-gaming non affilié à Mojang.com ou Minecraft.net.",
-"footer_about_description_2":"Ouvert depuis le 1er septembre 2013 et conçu de zéro avec une attention particulière aux détails, à l'optimisation et à la stabilité, HypariaMC est maintenu par une équipe de passionnés impliqués dans le projet. Nous garantissons à nos joueurs une expérience de jeu exceptionnelle.",
-
-"footer_links_title":"Liens utiles",
-
-"footer_support_title":"Soutenez-nous",
-"footer_support_description_1":"Bien que tous les aspects essentiels du serveur seront toujours librement accessibles à tous les joueurs, un travail incroyable est nécessaire pour gérer un serveur de cette envergure.",
-"footer_support_description_2":"Pensez à acheter quelque chose de notre boutique pour participer au développement du serveur !",
-"footer_support_button":"Visitez notre boutique",
-
-"ticket_support":"Pour tout problème ou question, nous vous encourageons à lier votre compte Minecraft avec Discord en suivant les instructions indiquées dans le salon \"#link\". Puis, vous serez en mesure d'ouvrir un ticket vous permettant ainsi de discuter avec les membres de notre équipe. Pour cela, il vous faut entrer la commande \"!help\" dans un salon textuel dans lequel vous avez la permission d'envoyer des messages.",
-
-"username_to_continue":"Veuillez entrer votre pseudo Minecraft pour continuer...",
-"username_to_continue_description":"Si vous souhaitez faire un cadeau à un joueur, veuillez entrer son propre pseudo Minecraft lors de l'ajout de l'article dans votre panier.",
-
-"package_ending_soon":"Bientôt indisponible !",
-"package_click_for_more_details":"Voir plus",
-"package_free":"Cet article est gratuit",
-"package_donation":"Comme vous voulez !",
-
-"basket_add_to_cart":"Ajouter au panier",
-"basket_gift_to_username":"Pour qui est ce cadeau ?",
-"basket_title":"Récapitulatif de commande",
-"basket_total_price":"Total :",
-"basket_see":"Voir mon panier",
-"basket_inclusive_of_taxes":"TTC",
-
-"basket_name":"Article(s)",
-"basket_package_options":"Option(s)",
-"basket_quantity":"Quantité",
-"basket_unit_price":"Prix unitaire",
-
-"basket_section_redeem_coupons":"Coupon de réduction",
-"basket_have_coupon_code":"Quel est votre coupon de réduction ?",
-
-"basket_section_payment_method":"Mode de paiement",
-
-"basket_section_billing_details":"Détails de facturation",
-"basket_full_name":"Nom et prénom",
-"basket_email":"Adresse e-mail",
-"basket_address_line_1":"Adresse postale",
-"basket_address_line_2":"Complément d'adresse",
-"basket_city":"Ville",
-"basket_zip_code":"Code postal",
-"basket_country":"Pays",
-"basket_choose_country":"Sélectionnez un pays",
-"basket_state":"Région",
-
-"basket_section_purchase":"Procéder au paiement",
-"basket_terms_and_conditions":"J'ai lu et accepté les",
-"basket_button_pay_out":"Payer",
-"basket_button_get_for_free":"Obtenir gratuitement",
-"basket_button_loading":"Chargement...",
-
-"terms_and_conditions":"Conditions Générales de Vente",
-"terms_and_conditions_url":"https://store.hyparia.org/cgv",
-
-"payment_completed_title":"Paiement effectué avec succès, merci !",
-"payment_completed_description":"Veuillez vous connecter sur HypariaMC Network (mc.hyparia.org) afin de recevoir votre commande.",
-
-
-
-"word_welcome":"Welcome",
-"word_continue":"Continue",
-"word_buy":"Buy",
-"word_remove":"Remove",
-"word_use":"Use",
-"word_gift":"Offer",
-"word_confirm":"Ok",
-"word_free":"Free",
-"word_home":"Home",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"package_donation": "Offrez-nous ce que vous voulez",
-"package_free": "Cet article est gratuit",
-
-
-
-
-
-
-
-
-
+"title_legend": "Devenez une légende",
+"title_legend_sub": "TODO",
 
 "title_store": "Boostez votre expérience de jeu",
 "title_store_sub_1": "La boutique vous permet de disposer d'avantages exclusifs en jeu tout en soutenant HypariaMC",
 "title_store_sub_2": "afin d’améliorer, encore et encore, le serveur et d’optimiser votre expérience de jeu.",
+
+"title_username": "Veuillez entrer votre pseudo Minecraft pour continuer",
+"title_username_sub": "Si vous souhaitez faire un cadeau à un joueur, veuillez entrer son propre pseudo Minecraft lors de l'ajout de l'article dans votre panier.",
+
+"title_can_continue": "C'est grâce à vous que nous pouvons continuer",
+"title_can_continue_desc": "Bien que tous les aspects du serveur seront toujours librement accessibles à tous les joueurs, un travail incroyable est nécessaire pour gérer un serveur de cette envergure. C'est grâce a vous que ce travail peut être réalisé pour que HypariaMC vive et continue de s'améliorer.",
+
+"title_payment_completed": "Paiement effectué avec succès",
+"title_payment_completed_sub": "Veuillez vous connecter sur HypariaMC Network (mc.hyparia.org) afin de recevoir votre commande. Merci !",
+
+"game_skyblock_name": "Skyblock",
+"game_skyblock_desc": "Notre Skyblock vous offre une expérience de jeu longue et diversifiée, seul ou entre amis, avec de nombreuses fonctionnalités inédites. L'objectif est de compléter des défis et de créer l'île la plus grande et la plus belle possible. Pour y arriver, les possibilités sont variées ! De nombreux extras comme un shop, un recycleur, des tournois journaliers, de nouveaux items et bien d'autres choses vous attendent... Deviendrez-vous le maître des cieux ?",
+"game_skyblock_advantage_1": "5 Skills exclusifs",
+"game_skyblock_advantage_2": "Outpost protégé par son gardien",
+"game_skyblock_advantage_3": "+10 Boss inédits",
+"game_skyblock_advantage_4": "Carte PVP avec un évènement par heure",
+"game_skyblock_advantage_5": "Carte PVP avec un évènement par heure",
+"game_skyblock_advantage_6": "Et bien plus encore",
+
+"game_creative_name": "Créatif",
+"game_creative_desc": "En Créatif, vous avez la possibilité de laisser libre cours à votre imagination et de construire tout ce que vous avez toujours voulu. Dans ce mode, vous pourrez vous défouler sur des parcelles gigantesques de 512x512 blocs. Non seulement des blocs infinis sont à votre disposition, mais aussi les droits de WorldEdit et VoxelSniper, une interface de têtes décoratives... Qu'attendez-vous pour libérer votre imagination ?",
+"game_creative_advantage_1": "Plot gigantesques de 512x512 blocs",
+"game_creative_advantage_2": "WorldEdit & VoxelSniper",
+"game_creative_advantage_3": "",
+"game_creative_advantage_4": "Redstonnez sans limites",
+"game_creative_advantage_5": "Redstonnez sans limites",
+"game_creative_advantage_6": "Et bien plus encore",
 
 "cart_order_summary": "Récapitulatif de commande",
 "cart_order_summary_desc": "Vous avez besoin d'une réponse à vos questions avant de passer au paiement ? Questionnez la communauté ou les membres de l'équipe sur notre Discord.",
@@ -302,18 +59,19 @@
 "cart_terms": "J'ai lu et accepté les",
 
 "word_home": "Accueil",
-"word_wiki": "Wiki",
 "word_rules": "Règlement",
 "word_store": "Boutique",
 "word_language": "Langue",
 "word_french": "Français",
 "word_english": "Anglais",
+"word_username": "Pseudo",
 "word_logout": "Se déconnecter",
 "word_close": "Fermer",
 "word_add": "Ajouter",
 "word_remove": "Retirer",
 "word_delete": "Supprimer",
 "word_apply": "Appliquer",
+"word_continue": "Continuer",
 "word_subscribe": "Souscrire",
 "word_pay": "Payer",
 "word_loading": "Chargement...",
@@ -330,9 +88,15 @@
 
 "word_conditions_of_use": "Conditions Générales d'Utilisation",
 "word_terms_of_sale": "Conditions Générales de Vente",
-"word_disclaimer": "Mentions légales",
 
 "expression_need_help": "Besoin d'aide",
+"expression_copy_ip_address": "Copier l'IP",
+"expression_join_discord": "Rejoindre le Discord",
+"expression_what_are_you_waiting_for_join": "Qu'attendez-vous pour rejoindre les",
+"expression_players_already_connected": "joueurs déjà connectés",
+"expression_hyparia_and_its_community": "HypariaMC et sa communauté en action",
+"expression_back_to_site": "Retourner sur le site",
+"expression_successful": "Action effectuée avec succès",
 "expression_is_not_your_account": "n'est pas votre compte ?",
 "expression_make_a_donation": "Faire un don",
 "expression_support_the_server": "Soutenez le serveur",
@@ -346,6 +110,7 @@
 "expression_do_you_have_a_coupon": "Avez-vous un coupon",
 "expression_pay_with": "Payer avec",
 "expression_claim_for_free": "Obtenir gratuitement",
+"expression_non_affiliated": "HypariaMC n'est en aucun cas affiliée à Mojang.com",
 
 "punctuation_space": " ",
 
