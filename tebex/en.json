@@ -88,7 +88,7 @@
 "word_coming_soon": "Coming soon",
 
 "word_conditions_of_use": "Conditions of Use",
-"word_terms_of_sale": "Terms of sale",
+"word_terms_of_sale": "Terms of Sale",
 
 "expression_need_help": "Need help",
 "expression_copy_ip_address": "Copy IP",
@@ -99,8 +99,9 @@
 "expression_back_to_site": "Back to the site",
 "expression_successful": "Action successfully completed",
 "expression_is_not_your_account": "isn't your account?",
-"expression_make_a_donation": "Make a donation",
+"expression_donate": "Donate",
 "expression_support_the_server": "Support the server",
+"expression_how_much_you_want": "How much you want",
 "expression_deal": "Hot Deal",
 "expression_see_more": "See more",
 "expression_add_to_cart": "Add to cart",
