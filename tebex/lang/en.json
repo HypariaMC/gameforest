@@ -64,7 +64,10 @@
 
         "wiki_introduction": "Please click on one of the topics below to start your navigation...",
         "wiki_hmanager": "Plot/Island Manager",
+        "wiki_tools": "Tools",
+
         "wiki_presets": "Presets",
+        "wiki_customheads": "Custom Heads",
 
         "cart_order_summary": "Order Summary",
         "cart_order_summary_desc": "Need any questions answered before checkout? Ask the community or team members on our Discord.",

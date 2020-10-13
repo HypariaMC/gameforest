@@ -64,7 +64,10 @@
 
         "wiki_introduction": "Veuillez cliquer sur l'une des rubriques ci-dessous pour commencer votre navigation...",
         "wiki_hmanager": "Gestionnaire de plot/île",
+        "wiki_tools": "Outils",
+
         "wiki_presets": "Thèmes",
+        "wiki_customheads": "Têtes Personnalisées",
 
         "cart_order_summary": "Récapitulatif de commande",
         "cart_order_summary_desc": "Vous avez besoin d'une réponse à vos questions avant de passer au paiement ? Questionnez la communauté ou les membres de l'équipe sur notre Discord.",
