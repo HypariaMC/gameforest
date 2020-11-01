@@ -21,8 +21,14 @@
         "meta_title_wiki_presets": "Thèmes",
         "meta_description_wiki_presets": "Les thèmes sont des plots pré-configurés avec différentes caractéristiques géographiques. Il sont une réelle source d’inspiration pour ceux manquants d’idées ou dont les talents en construction ne sont pas dans le terraforming.",
 
-        "meta_title_wiki_customheads": "Têtes Personnalisées",
+        "meta_title_wiki_customheads": "Têtes Personnalisés",
         "meta_description_wiki_customheads": "L'outil des têtes personnalisées permet d'obtenir +35.000 têtes Minecraft avec des motifs uniques issues de la librairie Minecraft Heads. À la fois facile et intuitif, il offre une grande liberté créative améliorant la qualité des constructions.",
+
+        "meta_title_wiki_worldedit": "WorldEdit",
+        "meta_description_wiki_worldedit": "WorldEdit est un outil polyvalent très puissant qui permet à son utilisateur de transformer facilement l'environnement d'une zone en supprimant, générant, dupliquant, remplaçant des blocs… C'est un outil très apprécié des communautés créatives qui simplifie grandement les tâches les plus longues et répétitives.",
+
+        "meta_title_wiki_settings": "Permissions des Grades",
+        "meta_description_wiki_settings": "Les permissions des grades sont un ensemble d'accès configurables déterminant à partir de quel grade une action est possible sur le plot ou sur l'île.",
 
         "title_home_1": "Votre aventure",
         "title_home_2": "commence ici",
@@ -61,7 +67,7 @@
         "game_creative_advantage_1": "Version 1.16",
         "game_creative_advantage_2": "Plots gigantesques de 512x512 blocs",
         "game_creative_advantage_3": "WorldEdit, VoxelSniper, GoPaint & GoBrush",
-        "game_creative_advantage_4": "Réglage des accès accordés au Visiteurs, Membres…",
+        "game_creative_advantage_4": "Réglage des accès accordés au Visiteurs, Coops, Membres…",
         "game_creative_advantage_5": "Thèmes de départ (grand canyon, île volante, forêt…)",
         "game_creative_advantage_6": "Et bien plus encore",
 
@@ -71,6 +77,8 @@
 
         "wiki_presets": "Thèmes",
         "wiki_customheads": "Têtes Personnalisées",
+        "wiki_worldedit": "WorldEdit",
+        "wiki_settings": "Permissions des Grades",
 
         "cart_order_summary": "Récapitulatif de commande",
         "cart_order_summary_desc": "Vous avez besoin d'une réponse à vos questions avant de passer au paiement ? Questionnez la communauté ou les membres de l'équipe sur notre Discord.",

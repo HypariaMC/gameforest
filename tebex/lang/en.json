@@ -24,6 +24,12 @@
         "meta_title_wiki_customheads": "Custom Heads",
         "meta_description_wiki_customheads": "",
 
+        "meta_title_wiki_worldedit": "WorldEdit",
+        "meta_description_wiki_worldedit": "",
+
+        "meta_title_wiki_settings": "Rank Permissions",
+        "meta_description_wiki_settings": "",
+
         "title_home_1": "Your adventure",
         "title_home_2": "starts here",
 
@@ -61,7 +67,7 @@
         "game_creative_advantage_1": "Version 1.16",
         "game_creative_advantage_2": "Huge plots of 512x512 blocks",
         "game_creative_advantage_3": "WorldEdit, VoxelSniper, GoPaint & GoBrush",
-        "game_creative_advantage_4": "Settings for access granted to Visitors, Members…",
+        "game_creative_advantage_4": "Settings for access granted to Visitors, Coops, Members…",
         "game_creative_advantage_5": "Starting themes (grand canyon, floating island, forest…)",
         "game_creative_advantage_6": "And so much more",
 
@@ -71,6 +77,8 @@
 
         "wiki_presets": "Presets",
         "wiki_customheads": "Custom Heads",
+        "wiki_worldedit": "WorldEdit",
+        "wiki_settings": "Rank Permissions",
 
         "cart_order_summary": "Order Summary",
         "cart_order_summary_desc": "Need any questions answered before checkout? Ask the community or team members on our Discord.",
