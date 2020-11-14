@@ -26,6 +26,12 @@
         "meta_title_wiki_settings": "Permissions des Grades",
         "meta_description_wiki_settings": "Les permissions des grades sont un ensemble d'accès configurables déterminant à partir de quel grade une action est possible sur le plot ou sur l'île.",
 
+        "meta_title_wiki_general_commands": "Commandes Générales",
+        "meta_description_wiki_general_commands": "",
+
+        "meta_title_wiki_limits": "Limites",
+        "meta_description_wiki_limits": "Les limites sont un ensemble de restrictions raisonnables qui s'appliquent sur les blocs, tiles et entités de chaque plot ou île. À chaque ajout ou retrait d'un élément limité, une interface affichant le rapport quantité posée/quantité maximale se met à jour.",
+
         "title_home_1": "Votre aventure",
         "title_home_2": "commence ici",
 
@@ -75,6 +81,8 @@
         "wiki_customheads": "Têtes Personnalisées",
         "wiki_worldedit": "WorldEdit",
         "wiki_settings": "Permissions des Grades",
+        "wiki_general_commands": "Commandes Générales",
+        "wiki_limits": "Limites",
 
         "cart_order_summary": "Récapitulatif de commande",
         "cart_order_summary_desc": "Vous avez besoin d'une réponse à vos questions avant de passer au paiement ? Questionnez la communauté ou les membres de l'équipe sur notre Discord.",
