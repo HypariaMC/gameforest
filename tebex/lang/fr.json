@@ -27,7 +27,7 @@
         "meta_description_wiki_settings": "Les permissions des grades sont un ensemble d'accès configurables déterminant à partir de quel grade une action est possible sur le plot ou sur l'île.",
 
         "meta_title_wiki_general_commands": "Commandes Générales",
-        "meta_description_wiki_general_commands": "",
+        "meta_description_wiki_general_commands": "Cet article recense toutes les commandes générales liées à la gestion des plots et des îles.",
 
         "meta_title_wiki_limits": "Limites",
         "meta_description_wiki_limits": "Les limites sont un ensemble de restrictions raisonnables qui s'appliquent sur les blocs, tiles et entités de chaque plot ou île. À chaque ajout ou retrait d'un élément limité, une interface affichant le rapport quantité posée/quantité maximale se met à jour.",
