@@ -17,8 +17,8 @@
         "meta_title_wiki_presets": "Presets",
         "meta_description_wiki_presets": "",
 
-        "meta_title_wiki_customheads": "Custom Heads",
-        "meta_description_wiki_customheads": "",
+        "meta_title_wiki_custom_heads": "Custom Heads",
+        "meta_description_wiki_custom_heads": "",
 
         "meta_title_wiki_worldedit": "WorldEdit",
         "meta_description_wiki_worldedit": "",
@@ -31,6 +31,9 @@
 
         "meta_title_wiki_limits": "Limits",
         "meta_description_wiki_limits": "",
+
+        "meta_title_wiki_custom_blocks": "Custom Blocks",
+        "meta_description_wiki_custom_blocks": "",
 
         "title_home_1": "Your adventure",
         "title_home_2": "starts here",
@@ -76,13 +79,6 @@
         "wiki_introduction": "Please click on one of the topics below to start your navigation...",
         "wiki_hmanager": "Plot/Island Manager",
         "wiki_tools": "Tools",
-
-        "wiki_presets": "Presets",
-        "wiki_customheads": "Custom Heads",
-        "wiki_worldedit": "WorldEdit",
-        "wiki_settings": "Rank Permissions",
-        "wiki_general_commands": "General Commands",
-        "wiki_limits": "Limits",
 
         "cart_order_summary": "Order Summary",
         "cart_order_summary_desc": "Need any questions answered before checkout? Ask the community or team members on our Discord.",
