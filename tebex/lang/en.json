@@ -43,6 +43,9 @@
         "title_legend": "Become a legend",
         "title_legend_sub": "Join us now and mark the community with your skill!",
 
+        "title_vote_for_us": "Why vote for us?",
+        "title_vote_for_us_sub": "Besides winning a Coins for every vote and having fun ingame, the top voters will win cool rewards every month!",
+
         "title_store": "Boost your gaming experience",
         "title_store_sub_1": "The store allows you to enjoy exclusive in-game benefits while supporting HypariaMC",
         "title_store_sub_2": "to improve the server over and over again and optimize your gaming experience.",
@@ -61,7 +64,6 @@
         "title_wiki_sub_2": "Here you can find all the useful information for the game.",
 
         "title_vote": "Vote and Win",
-        "title_vote_sub": "Support us and earn rewards by voting on one of the links below:",
 
         "game_skyblock_name": "Skyblock",
         "game_skyblock_desc": "Have you ever dreamed of an adventure on an island, alone or with friends? It can become reality… Conquer a new world by shaking up your habits. Between survival and reflection, develop your island to make it as great as possible while completing many challenges. Throughout your celestial adventure, discover many extras such as an evolving shop, skills to develop, daily tournaments and much more… Will you become the master of the skies?",
@@ -129,6 +131,7 @@
         "word_coming_soon": "Coming soon",
         "word_topic": "Topic",
         "word_introduction": "Introduction",
+        "word_vote": "Vote",
 
         "word_conditions_of_use": "Conditions of Use",
         "word_terms_of_sale": "Terms of Sale",
@@ -156,6 +159,11 @@
         "expression_pay_with": "Pay with",
         "expression_claim_for_free": "Claim for free",
         "expression_non_affiliated": "HypariaMC is in no-way affiliated by Mojang.com",
+        "expression_store_voucher": "Store Voucher",
+
+        "advantage_01": "Exclusive Title",
+        "advantage_02": "Exclusive Icon",
+        "advantage_03": "Game/Discord Exclusive Tag",
 
         "punctuation_space": "",
 
