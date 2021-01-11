@@ -43,9 +43,6 @@
         "title_legend": "Devenez une légende",
         "title_legend_sub": "Rejoignez-nous sans attendre et marquez la communauté par votre skill !",
 
-        "title_vote_for_us": "Pourquoi voter pour nous ?",
-        "title_vote_for_us_sub": "En plus de gagner un Coins pour chaque vote et vous faire plaisir en jeu, les meilleurs d'entre vous remporterons des récompenses super cool chaque mois !",
-
         "title_store": "Boostez votre expérience de jeu",
         "title_store_sub_1": "La boutique vous permet de disposer d'avantages exclusifs en jeu tout en soutenant HypariaMC",
         "title_store_sub_2": "afin d’améliorer, encore et encore, le serveur et d’optimiser votre expérience de jeu.",
@@ -64,6 +61,8 @@
         "title_wiki_sub_2": "Ici, vous trouverez toutes les informations utiles au jeu.",
 
         "title_vote": "Votez et Gagnez",
+        "title_vote_for_us": "Pourquoi voter ?",
+        "title_vote_for_us_sub": "En plus de gagner un Coins pour chaque vote et vous faire plaisir en jeu, les meilleurs d'entre vous remporterons des récompenses super cool chaque mois !",
 
         "game_skyblock_name": "Skyblock",
         "game_skyblock_desc": "Avez-vous déjà rêvé d’une aventure sur une île, seul ou entre amis ? Cela peut devenir réalité… Partez à la conquête d’un nouveau monde en bousculant vos habitudes. Entre survie et réflexion, développez votre île pour qu’elle devienne la plus grandiose possible tout en complétant de nombreux défis. Tout au long de votre aventure céleste, découvrez de nombreux extras comme un shop évolutif, des compétences à développer, des tournois journalier et bien d’autres choses… Deviendrez-vous le maître des cieux ?",
