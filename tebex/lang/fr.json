@@ -35,7 +35,10 @@
         "meta_description_wiki_limits": "Les limites sont un ensemble de restrictions raisonnables qui s'appliquent sur les blocs, tiles et entités de chaque plot ou île. À chaque ajout ou retrait d'un élément limité, une interface affichant le rapport quantité posée/quantité maximale se met à jour.",
 
         "meta_title_wiki_custom_blocks": "Blocs Spéciaux",
-        "meta_description_wiki_custom_blocks": "Les blocs spéciaux (nom anglais : custom blocks) permettent de compléter les blocs Minecraft existants avec des nouveaux blocs aux textures inédites. Il existe pour le moment plus d'une centaine de blocs répertoriés en différentes catégories : Sols, Terrain, Galais, Murs, Bois, Colombages, Toitures, Laines, Décoration.",
+        "meta_description_wiki_custom_blocks": "Les blocs spéciaux permettent de compléter les blocs Minecraft existants avec des nouveaux blocs aux textures inédites. Il existe pour le moment plus d'une centaine de blocs répertoriés en différentes catégories : Sols, Terrain, Galais, Murs, Bois, Colombages, Toitures, Laines, Décoration.",
+
+        "meta_title_wiki_actions_blocks": "Blocs d'Actions",
+        "meta_description_wiki_actions_blocks": "Les blocs d'actions permettent de déclencher des actions lorsqu'un joueur marche sur un bloc précis. Ils peuvent par exemple être utilisés pour des jumps, des parcours, des aventures, du roleplay, etc.",
 
         "title_home_1": "Votre aventure",
         "title_home_2": "commence ici",
