@@ -148,7 +148,8 @@
         "expression_successful": "Action successfully completed",
         "expression_is_not_your_account": "isn't your account?",
         "expression_donate": "Donate",
-        "expression_support_the_server": "Support the server",
+        "expression_do_you_like_our_work": "Do you like our work?",
+        "expression_support_the_server": "Support HypariaMC",
         "expression_how_much_you_want": "How much you want",
         "expression_deal": "Hot Deal",
         "expression_see_more": "See more",
@@ -162,6 +163,7 @@
         "expression_claim_for_free": "Claim for free",
         "expression_non_affiliated": "HypariaMC is in no-way affiliated by Mojang.com",
         "expression_store_voucher": "Store Voucher",
+        "expression_monthly_goal": "Monthly Goal",
 
         "advantage_01": "Exclusive Title",
         "advantage_02": "Exclusive Icon",
