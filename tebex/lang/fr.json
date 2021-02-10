@@ -6,7 +6,7 @@
     },
     "translations": {
 
-        "meta_title_general": "Serveur Minecraft Skyblock/Créatif",
+        "meta_title_general": "Serveur Minecraft Créatif/Skyblock 1.16.5",
         "meta_description_general": "Découvrez une nouvelle expérience de jeu sur un serveur Minecraft gratuit et addictif ! Parcourez nos modes de jeu Skyblock ou Créatif et devenez une légende !",
 
         "meta_title_rules": "Règlement",
@@ -78,9 +78,9 @@
 
         "game_creative_name": "Créatif",
         "game_creative_desc": "Vous souhaitez exprimer librement votre imagination ? Notre Créatif est fait pour vous ! Ce serveur bac à sable vous laisse un large panel de possibilités comme construire, terraformer, créer des map RP ou encore des jumps… Découvrez les créations des autres joueurs grâce à notre système complet de warps permettant des recherches par thèmes ou par fonctionnalités ! Parce que nous savons à quel point vos créations vous sont précieuses, restez serein en profitant de notre système de backup pour ne plus avoir peur des griefs. Qu’attendez-vous pour nous surprendre ?",
-        "game_creative_advantage_1": "Version 1.16",
+        "game_creative_advantage_1": "Version 1.16.5",
         "game_creative_advantage_2": "Plots gigantesques de 512x512 blocs",
-        "game_creative_advantage_3": "WorldEdit, VoxelSniper, GoPaint & GoBrush",
+        "game_creative_advantage_3": "WorldEdit, VoxelSniper, goBrush & goPaint",
         "game_creative_advantage_4": "Réglage des accès accordés au Visiteurs, Coops, Membres…",
         "game_creative_advantage_5": "Thèmes de départ (grand canyon, île volante, forêt…)",
         "game_creative_advantage_6": "Et bien plus encore",
@@ -134,6 +134,7 @@
         "word_topic": "Rubrique",
         "word_introduction": "Introduction",
         "word_vote": "Voter",
+        "word_tutorial": "Tutoriel",
 
         "word_conditions_of_use": "Conditions Générales d'Utilisation",
         "word_terms_of_sale": "Conditions Générales de Vente",

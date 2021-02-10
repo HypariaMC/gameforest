@@ -6,7 +6,7 @@
     },
     "translations": {
 
-        "meta_title_general": "Minecraft Skyblock/Creative Server",
+        "meta_title_general": "Minecraft 1.16.5 Creative/Skyblock Server",
         "meta_description_general": "Discover a new gaming experience on a free and addictive Minecraft server! Browse our Skyblock or Creative game modes and become a legend!",
 
         "meta_title_rules": "Rules",
@@ -78,9 +78,9 @@
 
         "game_creative_name": "Creative",
         "game_creative_desc": "Do you want to express your imagination freely? Our Creative is for you! This sandbox server gives you a wide range of possibilities such as building, terraforming, creating RP maps or even jumps… Discover other players' creations thanks to our complete system of warps allowing you to search by theme or by features! As we know that your creations are very precious, you can take advantage of our backup system to avoid any fear of grievances. What are you waiting for to surprise us?",
-        "game_creative_advantage_1": "Version 1.16",
+        "game_creative_advantage_1": "Version 1.16.5",
         "game_creative_advantage_2": "Huge plots of 512x512 blocks",
-        "game_creative_advantage_3": "WorldEdit, VoxelSniper, GoPaint & GoBrush",
+        "game_creative_advantage_3": "WorldEdit, VoxelSniper, goBrush & goPaint",
         "game_creative_advantage_4": "Settings for access granted to Visitors, Coops, Members…",
         "game_creative_advantage_5": "Starting themes (grand canyon, floating island, forest…)",
         "game_creative_advantage_6": "And so much more",
@@ -134,6 +134,7 @@
         "word_topic": "Topic",
         "word_introduction": "Introduction",
         "word_vote": "Vote",
+        "word_tutorial": "Tutorial",
 
         "word_conditions_of_use": "Conditions of Use",
         "word_terms_of_sale": "Terms of Sale",
