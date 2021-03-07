@@ -6,15 +6,23 @@
     },
     "translations": {
 
-        "meta_title_general": "Serveur Minecraft Créatif/Skyblock 1.16.5",
-        "meta_description_general": "Découvrez une nouvelle expérience de jeu sur un serveur Minecraft gratuit et addictif ! Parcourez nos modes de jeu Skyblock ou Créatif et devenez une légende !",
+        "meta_title_home": "Serveur Minecraft Créatif/Skyblock 1.16.5",
+        "meta_description_home": "Découvrez une nouvelle expérience de jeu sur un serveur Minecraft gratuit et addictif ! Parcourez nos modes de jeu Skyblock ou Créatif et devenez une légende !",
 
         "meta_title_rules": "Règlement",
+        "meta_description_rules": "Intégralité des règles s'appliquant à HypariaMC.",
+
         "meta_title_conditions_of_use": "Conditions Générales d'Utilisation",
+        "meta_description_conditions_of_use": "Intégralité des Conditions Générales d'Utilisation s'appliquant à HypariaMC.",
+
         "meta_title_terms_of_sale": "Conditions Générales de Vente",
+        "meta_description_terms_of_sale": "Intégralité des Conditions Générales de Vente s'appliquant à HypariaMC.",
+
+        "meta_title_vote": "Voter",
+        "meta_description_vote": "Votez et gagnez ! En plus de gagner un Coins pour chaque vote et vous faire plaisir en jeu, les meilleurs d'entre vous remporterons des récompenses super cool chaque mois !",
+
         "meta_title_wiki": "Wiki",
         "meta_title_news": "Quoi de neuf ?",
-        "meta_title_vote": "Voter",
 
         "meta_title_wiki_presets": "Thèmes",
         "meta_description_wiki_presets": "Les thèmes sont des plots pré-configurés avec différentes caractéristiques géographiques. Il sont une réelle source d’inspiration pour ceux manquants d’idées ou dont les talents en construction ne sont pas dans le terraforming.",

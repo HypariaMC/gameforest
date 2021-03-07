@@ -6,15 +6,23 @@
     },
     "translations": {
 
-        "meta_title_general": "Minecraft 1.16.5 Creative/Skyblock Server",
-        "meta_description_general": "Discover a new gaming experience on a free and addictive Minecraft server! Browse our Skyblock or Creative game modes and become a legend!",
+        "meta_title_home": "Minecraft 1.16.5 Creative/Skyblock Server",
+        "meta_description_home": "Discover a new gaming experience on a free and addictive Minecraft server! Browse our Skyblock or Creative game modes and become a legend!",
 
         "meta_title_rules": "Rules",
+        "meta_description_rules": "All rules applying to HypariaMC.",
+
         "meta_title_conditions_of_use": "Conditions of Use",
+        "meta_description_conditions_of_use": "Conditions of Use applying to HypariaMC.",
+
         "meta_title_terms_of_sale": "Terms of Sale",
+        "meta_description_terms_of_sale": "Terms of Sale applying to HypariaMC.",
+
+        "meta_title_vote": "Vote",
+        "meta_description_vote": "Vote and win! Besides winning a Coins for every vote and having fun in-game, top players win cool rewards every month!",
+
         "meta_title_wiki": "Wiki",
         "meta_title_news": "Whats's new?",
-        "meta_title_vote": "Vote",
 
         "meta_title_wiki_presets": "Presets",
         "meta_description_wiki_presets": "",
