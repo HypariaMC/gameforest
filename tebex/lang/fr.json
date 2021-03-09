@@ -7,7 +7,7 @@
     "translations": {
 
         "meta_title_home": "Serveur Minecraft Créatif/Skyblock 1.16.5",
-        "meta_description_home": "Découvrez une nouvelle expérience de jeu sur un serveur Minecraft gratuit et addictif ! Parcourez nos modes de jeu Skyblock ou Créatif et devenez une légende !",
+        "meta_description_home": "Découvrez une nouvelle expérience de jeu en 1.16.5 sur un serveur Minecraft entièrement gratuit et addictif ! Parcourez notre serveur Créatif ou Skyblock et devenez une légende !",
 
         "meta_title_rules": "Règlement",
         "meta_description_rules": "Intégralité des règles s'appliquant à HypariaMC.",
@@ -30,7 +30,7 @@
         "meta_title_wiki_custom_heads": "Têtes Personnalisés",
         "meta_description_wiki_custom_heads": "L'outil des têtes personnalisées permet d'obtenir +35.000 têtes Minecraft avec des motifs uniques issues de la librairie Minecraft Heads. À la fois facile et intuitif, il offre une grande liberté créative améliorant la qualité des constructions.",
 
-        "meta_title_wiki_worldedit": "WorldEdit",
+        "meta_title_wiki_worldedit": "Commandes WorldEdit",
         "meta_description_wiki_worldedit": "WorldEdit est un outil polyvalent très puissant qui permet à son utilisateur de transformer facilement l'environnement d'une zone en supprimant, générant, dupliquant, remplaçant des blocs… C'est un outil très apprécié des communautés créatives qui simplifie grandement les tâches les plus longues et répétitives.",
 
         "meta_title_wiki_settings": "Permissions des Grades",
@@ -48,7 +48,7 @@
         "meta_title_wiki_actions_blocks": "Blocs d'Actions",
         "meta_description_wiki_actions_blocks": "Les blocs d'actions permettent de déclencher des actions lorsqu'un joueur marche sur un bloc précis. Ils peuvent par exemple être utilisés pour des jumps, des parcours, des aventures, du roleplay, etc.",
 
-        "title_home_1": "Votre aventure",
+        "title_home_1": "Votre aventure minecraft",
         "title_home_2": "commence ici",
 
         "title_legend": "Devenez une légende",
@@ -88,7 +88,7 @@
 
         "game_creative_name": "Créatif",
         "game_creative_desc": "Vous souhaitez exprimer librement votre imagination ? Notre Créatif est fait pour vous ! Ce serveur bac à sable vous laisse un large panel de possibilités comme construire, terraformer, créer des map RP ou encore des jumps… Découvrez les créations des autres joueurs grâce à notre système complet de warps permettant des recherches par thèmes ou par fonctionnalités ! Parce que nous savons à quel point vos créations vous sont précieuses, restez serein en profitant de notre système de backup pour ne plus avoir peur des griefs. Qu’attendez-vous pour nous surprendre ?",
-        "game_creative_advantage_1": "Version 1.16.5",
+        "game_creative_advantage_1": "Minecraft 1.16.5",
         "game_creative_advantage_2": "Plots gigantesques de 512x512 blocs",
         "game_creative_advantage_3": "WorldEdit, VoxelSniper, goBrush & goPaint",
         "game_creative_advantage_4": "Réglage des accès accordés au Visiteurs, Coops, Membres…",
@@ -150,10 +150,9 @@
         "word_terms_of_sale": "Conditions Générales de Vente",
 
         "expression_need_help": "Besoin d'aide",
-        "expression_copy_ip_address": "Copier l'IP",
-        "expression_join_discord": "Rejoindre le Discord",
-        "expression_what_are_you_waiting_for_join": "Qu'attendez-vous pour rejoindre les",
-        "expression_players_already_connected": "joueurs déjà connectés",
+        "expression_copy_ip_address": "Copier l'adresse IP",
+        "expression_join_discord": "Rejoindre le serveur Discord",
+        "expression_what_are_you_waiting_for_join": "Qu'attendez-vous pour nous rejoindre ?",
         "expression_hyparia_and_its_community": "HypariaMC et sa communauté en action",
         "expression_back_to_site": "Retourner sur le site",
         "expression_successful": "Action effectuée avec succès",
