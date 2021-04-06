@@ -22,7 +22,7 @@
         "meta_description_vote": "Vote and win! Besides winning a Coins for every vote and having fun in-game, top players win cool rewards every month!",
 
         "meta_title_wiki": "Wiki",
-        "meta_title_news": "Whats's new?",
+        "meta_title_news": "Whats’s new?",
 
         "meta_title_wiki_presets": "Presets",
         "meta_description_wiki_presets": "",
@@ -48,8 +48,7 @@
         "meta_title_wiki_actions_blocks": "Actions Blocks",
         "meta_description_wiki_actions_blocks": "",
 
-        "title_home_1": "Your Minecraft adventure",
-        "title_home_2": "starts here",
+        "title_home": "Your Minecraft Skyblock or Creative adventure starts here",
 
         "title_legend": "Become a legend",
         "title_legend_sub": "Join us now and mark the community with your skill!",
@@ -77,8 +76,8 @@
         "title_vote_for_us": "Why vote?",
         "title_vote_for_us_sub": "Besides winning a Coins for every vote and having fun ingame, the top voters will win cool rewards every month!",
 
-        "game_skyblock_name": "Skyblock",
-        "game_skyblock_desc": "Have you ever dreamed of an adventure on an island, alone or with friends? It can become reality… Conquer a new world by shaking up your habits. Between survival and reflection, develop your island to make it as great as possible while completing many challenges. Throughout your celestial adventure, discover many extras such as an evolving shop, skills to develop, daily tournaments and much more… Will you become the master of the skies?",
+        "game_skyblock_name": "Skyblock Server",
+        "game_skyblock_desc": "Have you ever dreamed of an adventure on a Minecraft floating island, alone or with friends? It can become reality… Conquer a new world by shaking up your habits. Between survival and reflection, develop your island to make it as great as possible while completing many challenges. Throughout your celestial adventure, discover many extras such as an evolving shop, skills to develop, daily tournaments and much more… Will you become the master of the skies?",
         "game_skyblock_advantage_1": "Skills to develop",
         "game_skyblock_advantage_2": "165+ Quests",
         "game_skyblock_advantage_3": "Exp shop",
@@ -86,8 +85,8 @@
         "game_skyblock_advantage_5": "PVP map with event every hour",
         "game_skyblock_advantage_6": "And so much more",
 
-        "game_creative_name": "Creative",
-        "game_creative_desc": "Do you want to express your imagination freely? Our Creative is for you! This sandbox server gives you a wide range of possibilities such as building, terraforming, creating RP maps or even jumps… Discover other players' creations thanks to our complete system of warps allowing you to search by theme or by features! As we know that your creations are very precious, you can take advantage of our backup system to avoid any fear of grievances. What are you waiting for to surprise us?",
+        "game_creative_name": "Creative Server",
+        "game_creative_desc": "Do you want to express your imagination freely? Our Creative is for you! This sandbox server gives you a wide range of possibilities such as building, terraforming, creating RP maps or even jumps… Discover other players’ creations thanks to our complete system of warps allowing you to search by theme or by features! As we know that your creations are very precious, you can take advantage of our backup system to avoid any fear of grievances. What are you waiting for to surprise us?",
         "game_creative_advantage_1": "Minecraft 1.16.5",
         "game_creative_advantage_2": "Huge plots of 512x512 blocks",
         "game_creative_advantage_3": "WorldEdit, VoxelSniper, goBrush & goPaint",
@@ -155,10 +154,10 @@
         "expression_what_are_you_waiting_for_join": "What are you waiting for joining us?",
         "expression_back_to_site": "Back to the site",
         "expression_successful": "Action successfully completed",
-        "expression_is_not_your_account": "isn't your account?",
+        "expression_is_not_your_account": "isn’t your account?",
         "expression_donate": "Donate",
-        "expression_do_you_like_our_work": "Do you like our work?",
-        "expression_support_the_server": "Support HypariaMC",
+        "expression_do_you_like_our_work": "Do you like HypariaMC?",
+        "expression_support_the_server": "Support us!",
         "expression_how_much_you_want": "How much you want",
         "expression_deal": "Hot Deal",
         "expression_see_more": "See more",

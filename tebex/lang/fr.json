@@ -10,16 +10,16 @@
         "meta_description_home": "Découvrez une nouvelle expérience de jeu en 1.16.5 sur un serveur Minecraft entièrement gratuit et addictif ! Parcourez notre serveur Créatif ou Skyblock et devenez une légende !",
 
         "meta_title_rules": "Règlement",
-        "meta_description_rules": "Intégralité des règles s'appliquant à HypariaMC.",
+        "meta_description_rules": "Intégralité des règles s’appliquant à HypariaMC.",
 
-        "meta_title_conditions_of_use": "Conditions Générales d'Utilisation",
-        "meta_description_conditions_of_use": "Intégralité des Conditions Générales d'Utilisation s'appliquant à HypariaMC.",
+        "meta_title_conditions_of_use": "Conditions Générales d’Utilisation",
+        "meta_description_conditions_of_use": "Intégralité des Conditions Générales d’Utilisation s’appliquant à HypariaMC.",
 
         "meta_title_terms_of_sale": "Conditions Générales de Vente",
-        "meta_description_terms_of_sale": "Intégralité des Conditions Générales de Vente s'appliquant à HypariaMC.",
+        "meta_description_terms_of_sale": "Intégralité des Conditions Générales de Vente s’appliquant à HypariaMC.",
 
         "meta_title_vote": "Voter",
-        "meta_description_vote": "Votez et gagnez ! En plus de gagner un Coins pour chaque vote et vous faire plaisir en jeu, les meilleurs d'entre vous remporterons des récompenses super cool chaque mois !",
+        "meta_description_vote": "Votez et gagnez ! En plus de gagner un Coins pour chaque vote et vous faire plaisir en jeu, les meilleurs d’entre vous remporterons des récompenses super cool chaque mois !",
 
         "meta_title_wiki": "Wiki",
         "meta_title_news": "Quoi de neuf ?",
@@ -28,28 +28,27 @@
         "meta_description_wiki_presets": "Les thèmes sont des plots pré-configurés avec différentes caractéristiques géographiques. Il sont une réelle source d’inspiration pour ceux manquants d’idées ou dont les talents en construction ne sont pas dans le terraforming.",
 
         "meta_title_wiki_custom_heads": "Têtes Personnalisés",
-        "meta_description_wiki_custom_heads": "L'outil des têtes personnalisées permet d'obtenir +35.000 têtes Minecraft avec des motifs uniques issues de la librairie Minecraft Heads. À la fois facile et intuitif, il offre une grande liberté créative améliorant la qualité des constructions.",
+        "meta_description_wiki_custom_heads": "L’outil des têtes personnalisées permet d’obtenir +35.000 têtes Minecraft avec des motifs uniques issues de la librairie Minecraft Heads. À la fois facile et intuitif, il offre une grande liberté créative améliorant la qualité des constructions.",
 
         "meta_title_wiki_worldedit": "Commandes WorldEdit",
-        "meta_description_wiki_worldedit": "WorldEdit est un outil polyvalent très puissant qui permet à son utilisateur de transformer facilement l'environnement d'une zone en supprimant, générant, dupliquant, remplaçant des blocs… C'est un outil très apprécié des communautés créatives qui simplifie grandement les tâches les plus longues et répétitives.",
+        "meta_description_wiki_worldedit": "WorldEdit est un outil polyvalent très puissant qui permet à son utilisateur de transformer facilement l’environnement d’une zone en supprimant, générant, dupliquant, remplaçant des blocs… C’est un outil très apprécié des communautés créatives qui simplifie grandement les tâches les plus longues et répétitives.",
 
         "meta_title_wiki_settings": "Permissions des Grades",
-        "meta_description_wiki_settings": "Les permissions des grades sont un ensemble d'accès configurables déterminant à partir de quel grade une action est possible sur le plot ou sur l'île.",
+        "meta_description_wiki_settings": "Les permissions des grades sont un ensemble d’accès configurables déterminant à partir de quel grade une action est possible sur le plot ou sur l’île.",
 
         "meta_title_wiki_general_commands": "Commandes Générales",
         "meta_description_wiki_general_commands": "Cet article recense toutes les commandes générales liées à la gestion des plots et des îles.",
 
         "meta_title_wiki_limits": "Limites",
-        "meta_description_wiki_limits": "Les limites sont un ensemble de restrictions raisonnables qui s'appliquent sur les blocs, tiles et entités de chaque plot ou île. À chaque ajout ou retrait d'un élément limité, une interface affichant le rapport quantité posée/quantité maximale se met à jour.",
+        "meta_description_wiki_limits": "Les limites sont un ensemble de restrictions raisonnables qui s’appliquent sur les blocs, tiles et entités de chaque plot ou île. À chaque ajout ou retrait d’un élément limité, une interface affichant le rapport quantité posée/quantité maximale se met à jour.",
 
         "meta_title_wiki_custom_blocks": "Blocs Spéciaux",
-        "meta_description_wiki_custom_blocks": "Les blocs spéciaux permettent de compléter les blocs Minecraft existants avec des nouveaux blocs aux textures inédites. Il existe pour le moment plus d'une centaine de blocs répertoriés en différentes catégories : Sols, Terrain, Galais, Murs, Bois, Colombages, Toitures, Laines, Décoration.",
+        "meta_description_wiki_custom_blocks": "Les blocs spéciaux permettent de compléter les blocs Minecraft existants avec des nouveaux blocs aux textures inédites. Il existe pour le moment plus d’une centaine de blocs répertoriés en différentes catégories : Sols, Terrain, Galais, Murs, Bois, Colombages, Toitures, Laines, Décoration.",
 
-        "meta_title_wiki_actions_blocks": "Blocs d'Actions",
-        "meta_description_wiki_actions_blocks": "Les blocs d'actions permettent de déclencher des actions lorsqu'un joueur marche sur un bloc précis. Ils peuvent par exemple être utilisés pour des jumps, des parcours, des aventures, du roleplay, etc.",
+        "meta_title_wiki_actions_blocks": "Blocs d’Actions",
+        "meta_description_wiki_actions_blocks": "Les blocs d’actions permettent de déclencher des actions lorsqu’un joueur marche sur un bloc précis. Ils peuvent par exemple être utilisés pour des jumps, des parcours, des aventures, du roleplay, etc.",
 
-        "title_home_1": "Votre aventure minecraft",
-        "title_home_2": "commence ici",
+        "title_home": "Votre aventure Minecraft Skyblock ou Créatif commence ici",
 
         "title_legend": "Devenez une légende",
         "title_legend_sub": "Rejoignez-nous sans attendre et marquez la communauté par votre skill !",
@@ -57,28 +56,28 @@
         "title_latest_blogs": "Nos dernières actualités",
 
         "title_store": "Boostez votre expérience de jeu",
-        "title_store_sub_1": "La boutique vous permet de disposer d'avantages exclusifs en jeu tout en soutenant HypariaMC",
+        "title_store_sub_1": "La boutique vous permet de disposer d’avantages exclusifs en jeu tout en soutenant HypariaMC",
         "title_store_sub_2": "afin d’améliorer, encore et encore, le serveur et d’optimiser votre expérience de jeu.",
 
         "title_username": "Veuillez entrer votre pseudo Minecraft pour continuer",
-        "title_username_sub": "Si vous souhaitez faire un cadeau à un joueur, veuillez entrer son propre pseudo Minecraft lors de l'ajout de l'article dans votre panier.",
+        "title_username_sub": "Si vous souhaitez faire un cadeau à un joueur, veuillez entrer son propre pseudo Minecraft lors de l’ajout de l’article dans votre panier.",
 
-        "title_can_continue": "C'est grâce à vous que nous pouvons continuer",
-        "title_can_continue_desc": "Bien que tous les aspects du serveur seront toujours librement accessibles à tous les joueurs, un travail incroyable est nécessaire pour gérer le réseau. C'est grâce à vous que ce travail peut être réalisé pour que HypariaMC vive et continue de s'améliorer.",
+        "title_can_continue": "C’est grâce à vous que nous pouvons continuer",
+        "title_can_continue_desc": "Bien que tous les aspects du serveur seront toujours librement accessibles à tous les joueurs, un travail incroyable est nécessaire pour gérer le réseau. C’est grâce à vous que ce travail peut être réalisé pour que HypariaMC vive et continue de s’améliorer.",
 
         "title_payment_completed": "Paiement effectué avec succès",
         "title_payment_completed_sub": "Veuillez vous connecter sur HypariaMC Network (mc.hyparia.org) afin de recevoir votre commande. Merci !",
 
         "title_wiki": "Wiki",
-        "title_wiki_sub_1": "Bienvenue sur le Wiki d'HypariaMC !",
+        "title_wiki_sub_1": "Bienvenue sur le Wiki d’HypariaMC !",
         "title_wiki_sub_2": "Ici, vous trouverez toutes les informations utiles au jeu.",
 
         "title_vote": "Votez et Gagnez",
         "title_vote_for_us": "Pourquoi voter ?",
-        "title_vote_for_us_sub": "En plus de gagner un Coins pour chaque vote et vous faire plaisir en jeu, les meilleurs d'entre vous remporterons des récompenses super cool chaque mois !",
+        "title_vote_for_us_sub": "En plus de gagner un Coins pour chaque vote et vous faire plaisir en jeu, les meilleurs d’entre vous remporterons des récompenses super cool chaque mois !",
 
-        "game_skyblock_name": "Skyblock",
-        "game_skyblock_desc": "Avez-vous déjà rêvé d’une aventure sur une île, seul ou entre amis ? Cela peut devenir réalité… Partez à la conquête d’un nouveau monde en bousculant vos habitudes. Entre survie et réflexion, développez votre île pour qu’elle devienne la plus grandiose possible tout en complétant de nombreux défis. Tout au long de votre aventure céleste, découvrez de nombreux extras comme un shop évolutif, des compétences à développer, des tournois journalier et bien d’autres choses… Deviendrez-vous le maître des cieux ?",
+        "game_skyblock_name": "Serveur Skyblock",
+        "game_skyblock_desc": "Avez-vous déjà rêvé d’une aventure sur une île volante Minecraft, seul ou entre amis ? Cela peut devenir réalité… Partez à la conquête d’un nouveau monde en bousculant vos habitudes. Entre survie et réflexion, développez votre île pour qu’elle devienne la plus grandiose possible tout en complétant de nombreux défis. Tout au long de votre aventure céleste, découvrez de nombreux extras comme un shop évolutif, des compétences à développer, des tournois journalier et bien d’autres choses… Deviendrez-vous le maître des cieux ?",
         "game_skyblock_advantage_1": "Skills à faire évoluer",
         "game_skyblock_advantage_2": "+165 Quêtes",
         "game_skyblock_advantage_3": "Shop d’expérience",
@@ -86,7 +85,7 @@
         "game_skyblock_advantage_5": "Carte PVP avec un évènement par heure",
         "game_skyblock_advantage_6": "Et bien plus encore",
 
-        "game_creative_name": "Créatif",
+        "game_creative_name": "Serveur Créatif",
         "game_creative_desc": "Vous souhaitez exprimer librement votre imagination ? Notre Créatif est fait pour vous ! Ce serveur bac à sable vous laisse un large panel de possibilités comme construire, terraformer, créer des map RP ou encore des jumps… Découvrez les créations des autres joueurs grâce à notre système complet de warps permettant des recherches par thèmes ou par fonctionnalités ! Parce que nous savons à quel point vos créations vous sont précieuses, restez serein en profitant de notre système de backup pour ne plus avoir peur des griefs. Qu’attendez-vous pour nous surprendre ?",
         "game_creative_advantage_1": "Minecraft 1.16.5",
         "game_creative_advantage_2": "Plots gigantesques de 512x512 blocs",
@@ -95,23 +94,23 @@
         "game_creative_advantage_5": "Thèmes de départ (grand canyon, île volante, forêt…)",
         "game_creative_advantage_6": "Et bien plus encore",
 
-        "wiki_introduction": "Veuillez cliquer sur l'une des rubriques ci-dessous pour commencer votre navigation...",
+        "wiki_introduction": "Veuillez cliquer sur l’une des rubriques ci-dessous pour commencer votre navigation...",
         "wiki_hmanager": "Gestionnaire de plot/île",
         "wiki_tools": "Outils",
 
         "cart_order_summary": "Récapitulatif de commande",
-        "cart_order_summary_desc": "Vous avez besoin d'une réponse à vos questions avant de passer au paiement ? Questionnez la communauté ou les membres de l'équipe sur notre Discord.",
+        "cart_order_summary_desc": "Vous avez besoin d’une réponse à vos questions avant de passer au paiement ? Questionnez la communauté ou les membres de l’équipe sur notre Discord.",
         "cart_billing_details": "Détails de facturation",
         "cart_full_name": "Nom et prénom",
         "cart_email": "Adresse e-mail",
         "cart_address_line_1": "Adresse postale",
-        "cart_address_line_2": "Complément d'adresse",
+        "cart_address_line_2": "Complément d’adresse",
         "cart_zip_code": "Code postal",
         "cart_city": "Ville",
         "cart_country": "Pays",
         "cart_choose_country": "Sélectionnez un pays",
         "cart_state": "Région",
-        "cart_terms": "J'ai lu et accepté les",
+        "cart_terms": "J’ai lu et accepté les",
 
         "word_home": "Accueil",
         "word_rules": "Règlement",
@@ -146,20 +145,20 @@
         "word_vote": "Voter",
         "word_tutorial": "Tutoriel",
 
-        "word_conditions_of_use": "Conditions Générales d'Utilisation",
+        "word_conditions_of_use": "Conditions Générales d’Utilisation",
         "word_terms_of_sale": "Conditions Générales de Vente",
 
-        "expression_need_help": "Besoin d'aide",
-        "expression_copy_ip_address": "Copier l'adresse IP",
+        "expression_need_help": "Besoin d’aide",
+        "expression_copy_ip_address": "Copier l’adresse IP",
         "expression_join_discord": "Rejoindre le serveur Discord",
-        "expression_what_are_you_waiting_for_join": "Qu'attendez-vous pour nous rejoindre ?",
+        "expression_what_are_you_waiting_for_join": "Qu’attendez-vous pour nous rejoindre ?",
         "expression_hyparia_and_its_community": "HypariaMC et sa communauté en action",
         "expression_back_to_site": "Retourner sur le site",
         "expression_successful": "Action effectuée avec succès",
-        "expression_is_not_your_account": "n'est pas votre compte ?",
+        "expression_is_not_your_account": "n’est pas votre compte ?",
         "expression_donate": "Faire un don",
-        "expression_do_you_like_our_work": "Vous appréciez notre travail ?",
-        "expression_support_the_server": "Soutenez HypariaMC",
+        "expression_do_you_like_our_work": "Vous appréciez HypariaMC ?",
+        "expression_support_the_server": "Soutenez-nous !",
         "expression_how_much_you_want": "Le montant que vous voulez",
         "expression_deal": "Le Deal à ne pas rater",
         "expression_see_more": "En savoir plus",
@@ -171,7 +170,7 @@
         "expression_do_you_have_a_coupon": "Avez-vous un coupon",
         "expression_pay_with": "Payer avec",
         "expression_claim_for_free": "Obtenir gratuitement",
-        "expression_non_affiliated": "HypariaMC n'est en aucun cas affiliée à Mojang.com",
+        "expression_non_affiliated": "HypariaMC n’est en aucun cas affiliée à Mojang.com",
         "expression_store_voucher": "Coupon Boutique",
         "expression_monthly_goal": "Objectif Mensuel",
 
