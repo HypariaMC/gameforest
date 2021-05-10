@@ -48,7 +48,7 @@
         "meta_title_wiki_actions_blocks": "Actions Blocks",
         "meta_description_wiki_actions_blocks": "",
 
-        "title_home": "Your Minecraft Skyblock or Creative adventure starts here",
+        "title_home": "Your Minecraft adventure starts here",
 
         "title_legend": "Become a legend",
         "title_legend_sub": "Join us now and mark the community with your skill!",
@@ -152,6 +152,7 @@
         "expression_copy_ip_address": "Copy IP address",
         "expression_join_discord": "Join the Discord server",
         "expression_what_are_you_waiting_for_join": "What are you waiting for joining us?",
+        "expression_hyparia_and_its_community": "HypariaMC and its community in action",
         "expression_back_to_site": "Back to the site",
         "expression_successful": "Action successfully completed",
         "expression_is_not_your_account": "isn’t your account?",
@@ -164,6 +165,7 @@
         "expression_add_to_cart": "Add to cart",
         "expression_remove_from_cart": "Remove from cart",
         "expression_in_your_cart": "In your cart",
+        "expression_my_cart": "My Cart",
         "expression_ending_soon": "Ending soon",
         "expression_proceed_to_checkout": "Proceed to checkout",
         "expression_do_you_have_a_coupon": "Do you have a coupon",

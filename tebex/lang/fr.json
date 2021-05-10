@@ -48,7 +48,7 @@
         "meta_title_wiki_actions_blocks": "Blocs d’Actions",
         "meta_description_wiki_actions_blocks": "Les blocs d’actions permettent de déclencher des actions lorsqu’un joueur marche sur un bloc précis. Ils peuvent par exemple être utilisés pour des jumps, des parcours, des aventures, du roleplay, etc.",
 
-        "title_home": "Votre aventure Minecraft Skyblock ou Créatif commence ici",
+        "title_home": "Votre aventure Minecraft commence ici",
 
         "title_legend": "Devenez une légende",
         "title_legend_sub": "Rejoignez-nous sans attendre et marquez la communauté par votre skill !",
@@ -145,8 +145,8 @@
         "word_vote": "Voter",
         "word_tutorial": "Tutoriel",
 
-        "word_conditions_of_use": "Conditions Générales d’Utilisation",
-        "word_terms_of_sale": "Conditions Générales de Vente",
+        "word_conditions_of_use": "CGU",
+        "word_terms_of_sale": "CGV",
 
         "expression_need_help": "Besoin d’aide",
         "expression_copy_ip_address": "Copier l’adresse IP",
@@ -165,6 +165,7 @@
         "expression_add_to_cart": "Ajouter au panier",
         "expression_remove_from_cart": "Retirer du panier",
         "expression_in_your_cart": "Dans votre panier",
+        "expression_my_cart": "Mon pannier",
         "expression_ending_soon": "Bientôt indisponible",
         "expression_proceed_to_checkout": "Procéder au paiement",
         "expression_do_you_have_a_coupon": "Avez-vous un coupon",
