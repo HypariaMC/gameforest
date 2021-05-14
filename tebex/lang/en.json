@@ -159,6 +159,8 @@
         "expression_proceed_to_checkout": "Proceed to checkout",
         "expression_claim_for_free": "Claim for free",
         "expression_monthly_goal": "Monthly Goal",
+        "expression_non_affiliated": "HypariaMC is in no-way affiliated by Mojang.com",
+        "expression_store_voucher": "Store Voucher",
 
         "advantage_01": "Exclusive Title",
         "advantage_02": "Exclusive Icon",
