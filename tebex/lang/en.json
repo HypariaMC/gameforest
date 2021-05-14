@@ -15,14 +15,13 @@
         "meta_title_conditions_of_use": "Conditions of Use",
         "meta_description_conditions_of_use": "Conditions of Use applying to HypariaMC.",
 
-        "meta_title_terms_of_sale": "Terms of Sale",
-        "meta_description_terms_of_sale": "Terms of Sale applying to HypariaMC.",
-
         "meta_title_vote": "Vote",
         "meta_description_vote": "Vote and win! Besides winning a Coins for every vote and having fun in-game, top players win cool rewards every month!",
 
         "meta_title_wiki": "Wiki",
-        "meta_title_news": "Whats’s new?",
+        "meta_description_wiki": "",
+
+        "meta_title_news": "Whats's new?",
 
         "meta_title_wiki_presets": "Presets",
         "meta_description_wiki_presets": "",
@@ -48,6 +47,12 @@
         "meta_title_wiki_actions_blocks": "Actions Blocks",
         "meta_description_wiki_actions_blocks": "",
 
+        "meta_title_wiki_gobrush": "goBrush Commands",
+        "meta_description_wiki_gobrush": "",
+
+        "meta_title_wiki_ranks": "HypariaMC Team",
+        "meta_description_wiki_ranks": "",
+
         "title_home": "Your Minecraft adventure starts here",
 
         "title_legend": "Become a legend",
@@ -68,10 +73,6 @@
         "title_payment_completed": "Payment completed",
         "title_payment_completed_sub": "Please login to HypariaMC Network (mc.hyparia.org) to receive your order. Thank you!",
 
-        "title_wiki": "Wiki",
-        "title_wiki_sub_1": "Welcome to the HypariaMC Wiki!",
-        "title_wiki_sub_2": "Here you can find all the useful information for the game.",
-
         "title_vote": "Vote and Win",
         "title_vote_for_us": "Why vote?",
         "title_vote_for_us_sub": "Besides winning a Coins for every vote and having fun ingame, the top voters will win cool rewards every month!",
@@ -86,7 +87,7 @@
         "game_skyblock_advantage_6": "And so much more",
 
         "game_creative_name": "Creative Server",
-        "game_creative_desc": "Do you want to express your imagination freely? Our Creative is for you! This sandbox server gives you a wide range of possibilities such as building, terraforming, creating RP maps or even jumps… Discover other players’ creations thanks to our complete system of warps allowing you to search by theme or by features! As we know that your creations are very precious, you can take advantage of our backup system to avoid any fear of grievances. What are you waiting for to surprise us?",
+        "game_creative_desc": "Do you want to express your imagination freely? Our Creative is for you! This sandbox server gives you a wide range of possibilities such as building, terraforming, creating RP maps or even jumps… Discover other players' creations thanks to our complete system of warps allowing you to search by theme or by features! As we know that your creations are very precious, you can take advantage of our backup system to avoid any fear of grievances. What are you waiting for to surprise us?",
         "game_creative_advantage_1": "Minecraft 1.16.5",
         "game_creative_advantage_2": "Huge plots of 512x512 blocks",
         "game_creative_advantage_3": "WorldEdit, VoxelSniper, goBrush & goPaint",
@@ -94,22 +95,6 @@
         "game_creative_advantage_5": "Starting themes (grand canyon, floating island, forest…)",
         "game_creative_advantage_6": "And so much more",
 
-        "wiki_introduction": "Please click on one of the topics below to start your navigation...",
-        "wiki_hmanager": "Plot/Island Manager",
-        "wiki_tools": "Tools",
-
-        "cart_order_summary": "Order Summary",
-        "cart_order_summary_desc": "Need any questions answered before checkout? Ask the community or team members on our Discord.",
-        "cart_billing_details": "Billing Details",
-        "cart_full_name": "Full name",
-        "cart_email": "Email address",
-        "cart_address_line_1": "Address line 1",
-        "cart_address_line_2": "Address line 2",
-        "cart_zip_code": "Zip code",
-        "cart_city": "City",
-        "cart_country": "Country",
-        "cart_choose_country": "Select a country",
-        "cart_state": "State",
         "cart_terms": "I agree to the",
 
         "word_home": "Home",
@@ -145,6 +130,9 @@
         "word_vote": "Vote",
         "word_tutorial": "Tutorial",
 
+        "word_terms": "Privacy",
+        "word_conditions": "Terms",
+        "word_impressum": "Impressum",
         "word_conditions_of_use": "Conditions of Use",
         "word_terms_of_sale": "Terms of Sale",
 
@@ -155,7 +143,7 @@
         "expression_hyparia_and_its_community": "HypariaMC and its community in action",
         "expression_back_to_site": "Back to the site",
         "expression_successful": "Action successfully completed",
-        "expression_is_not_your_account": "isn’t your account?",
+        "expression_is_not_your_account": "isn't your account?",
         "expression_donate": "Donate",
         "expression_do_you_like_our_work": "Do you like HypariaMC?",
         "expression_support_the_server": "Support us!",
@@ -166,13 +154,10 @@
         "expression_remove_from_cart": "Remove from cart",
         "expression_in_your_cart": "In your cart",
         "expression_my_cart": "My Cart",
+        "expression_see_my_cart": "See my cart",
         "expression_ending_soon": "Ending soon",
         "expression_proceed_to_checkout": "Proceed to checkout",
-        "expression_do_you_have_a_coupon": "Do you have a coupon",
-        "expression_pay_with": "Pay with",
         "expression_claim_for_free": "Claim for free",
-        "expression_non_affiliated": "HypariaMC is in no-way affiliated by Mojang.com",
-        "expression_store_voucher": "Store Voucher",
         "expression_monthly_goal": "Monthly Goal",
 
         "advantage_01": "Exclusive Title",
